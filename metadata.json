@@ -1,6 +1,0 @@
-{
-  "name": "CaseX - Digital Crime Scene Investigation Platform",
-  "description": "Professional digital crime scene investigation platform featuring multi-case management, forensic analysis, evidence locker, interactive timeline builder, suspect matrix, witness interview simulator, CCTV surveillance, and detective board.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
